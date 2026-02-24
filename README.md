@@ -3,8 +3,6 @@
 
 ---
 
-<img align = "right"  alt = "nethmihimashi" width = "400" src = "https://copilot.microsoft.com/th/id/BCO.e607d9c7-1a44-4a87-a01f-a39117787b09.png" >
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashii108&label=Profile%20views&color=0e75b6&style=flat" alt="ashii108" /> </p>
 
 - 🌱 I’m currently learning **Python, Java, C++, HTML, JavaScript, CSS**
